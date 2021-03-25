@@ -1,0 +1,9 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Jost", sans-serif;
+}
+
+.btn-secondary {
+  background-color: #ad5a5a;
+  border-color: #ad5a5a;
+}
